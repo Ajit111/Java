@@ -6,7 +6,7 @@ import java.util.Map;
 public class CharacterCount {
 	public static void main(String[] args) {
         String test = "Test";
-        test = test.toLowerCase();  // case-insensitive count ke liye
+        test = test.toUpperCase();  // case-insensitive count ke liye
 
         Map<Character, Integer> map = new LinkedHashMap<>();
 
