@@ -2,7 +2,7 @@ package JAVA;
 
 public class CountVowels {
 	 public static void main(String[] args) {
-	        String str = "automation";
+	        String str = "Automaion";
 	        int vowels = 0, consonants = 0;
 	        
 	        str = str.toLowerCase();
@@ -12,5 +12,5 @@ public class CountVowels {
 	        }
 	        System.out.println("Vowels: " + vowels + ", Consonants: " + consonants);
 	    }
-
 }
+

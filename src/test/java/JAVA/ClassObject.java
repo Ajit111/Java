@@ -20,5 +20,7 @@ public static void main(String[] args) {
 	ClassObject myObj = new ClassObject();
   System.out.println("Name: " + myObj.fname + " " + myObj.lname);
   System.out.println("Age: " + myObj.age);
-}
+  System.out.println("First name" + ":" +myObj.fname);
+  
+  }
 }

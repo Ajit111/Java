@@ -2,7 +2,7 @@ package JAVA;
 
 import java.util.HashMap;
 
-public class DuplicateCharacters {
+public class Duplicate_Characters_In_String {
 	  public static void main(String[] args) {
 	        String str = "automation";
 	        HashMap<Character, Integer> map = new HashMap<>();
@@ -16,5 +16,4 @@ public class DuplicateCharacters {
 	                System.out.println(c + " : " + map.get(c));
 	        }
 	    }
-
 }
