@@ -10,3 +10,8 @@ public class ForEachLoop{
 	}
 }
 
+
+//  output=  10
+//           20
+//           30
+//           40

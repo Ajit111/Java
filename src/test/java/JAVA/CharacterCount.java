@@ -26,3 +26,4 @@ public class CharacterCount {
         }
     }
 }
+//output =T=2, E=1, S=1, 

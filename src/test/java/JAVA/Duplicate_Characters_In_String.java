@@ -17,3 +17,7 @@ public class Duplicate_Characters_In_String {
 	        }
 	    }
 }
+     //output=a : 2,t : 2, o : 2
+
+
+ 
